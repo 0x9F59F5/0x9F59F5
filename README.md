@@ -1,20 +1,5 @@
-<!--
-**0x9F59F5/0x9F59F5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba67fe,100:&height=180&text=Hello&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba67fe,100:&height=240&text=Hello&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
@@ -41,7 +26,11 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-<!--     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div>  -->
-    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x9F59F5&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zxc4370)](https://solved.ac/zxc4370)
+
+</div>
     
