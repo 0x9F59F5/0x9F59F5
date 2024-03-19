@@ -41,7 +41,7 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div> 
+<!--     <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div>  -->
     </div>
     
