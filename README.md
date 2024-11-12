@@ -77,7 +77,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0x9F59F5&show_icons=true&theme=radical">
     <br><br>
-    <a href="https://solved.ac/zxc4370">
+<!--     <a href="https://solved.ac/zxc4370">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=zxc4370">
-    </a>
+    </a> -->
 </div>
