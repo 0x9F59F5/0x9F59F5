@@ -5,9 +5,7 @@
 
 
 <div align="center"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 
-        
-    </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div> 
 </div>
 
 <br>
