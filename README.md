@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba67fe,100:&height=240&text=Hello&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba67fe,100:&height=240&text=&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
 
