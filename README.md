@@ -45,7 +45,6 @@
     <div style="margin: 0 auto; text-align: center;"> 
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-ffffff.svg?style=for-the-badge&logo=notion&logoColor=black">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
         <img src="https://img.shields.io/badge/vscode-21262d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
