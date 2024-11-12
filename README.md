@@ -6,7 +6,7 @@
 
 <div align="center"> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 
-        동서대학교 소프트웨어학과 3학년 
+        
     </div> 
 </div>
 
